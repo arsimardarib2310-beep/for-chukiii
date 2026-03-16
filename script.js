@@ -3,7 +3,7 @@ const noBtn = document.getElementById("noBtn");
 const response = document.getElementById("response");
 
 yesBtn.addEventListener("click", function() {
-    response.textContent = "YEEEHEYYYYY, CANT WAIT TO SEEE YOUUU";
+    response.textContent = "YEEEHEYYYYY, WE CANT WAIT TO SEEE YOUUU";
 });
 
 noBtn.addEventListener("mouseover", function() {
